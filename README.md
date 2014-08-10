@@ -1,7 +1,7 @@
-README
+openAR
 ======
 -----------------------------------------------------------------------------------------------------------
-				OpenAR - OpenCV Augmented Reality
+							OpenAR - OpenCV Augmented Reality
 -----------------------------------------------------------------------------------------------------------
 OpenAR is a very simple C++ implementation to achieve Marker based Augmented Reality. OpenAR is based on 
 OpenCV and solely dependent on the library. OpenAR decodes markers in a frame of image. OpenAR does not 
@@ -9,21 +9,20 @@ implement Marker tracking across frames. Also OpenAR does not implement Template
 
 For more information, Visit http://dsynflo.blogspot.com
 
+Instructions
+---------------
+```bash
+git clone https://github.com/bharathp666/openAR.git
+cd openAR_1.0
+cmake .
+make
+./openar
+```
+
 License
 ---------------
-OpenAR is under Zero License
-Zero License is a license meant for free distribution in public domain.
-Zero License allows commercial use of materials with or without permissions/modifications/customizations
-Zero License allows use with or without mention of source or contributors.
-
- 
-Release History
----------------
-Epoch		: March 20, 2010, Initial Release
-Authors		: Aditya KP & Bharath Prabhuswamy @ Virtual Logic Systems Pvt. Ltd., Bangalore
-
-Date		: June 20, 2014, Re-release
-Authors		: Bharath Prabhuswamy
+OpenAR is under Zero License.
+Zero License is a license meant for free distribution in public domain. Zero License allows commercial use of materials with or without permissions/modifications/customizations. Zero License allows use with or without mention of source or contributors.
 
 
 DISCLAIMER
