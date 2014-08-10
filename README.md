@@ -1,7 +1,7 @@
 openAR
 ======
 -----------------------------------------------------------------------------------------------------------
-							OpenAR - OpenCV Augmented Reality
+					OpenAR - OpenCV Augmented Reality
 -----------------------------------------------------------------------------------------------------------
 OpenAR is a very simple C++ implementation to achieve Marker based Augmented Reality. OpenAR is based on 
 OpenCV and solely dependent on the library. OpenAR decodes markers in a frame of image. OpenAR does not 
